@@ -1,0 +1,12 @@
+/* Custom styles */
+.navbar-brand img {
+    height: 100%; /* Adjust the height of the logo */
+    width: auto; /* Maintain aspect ratio */
+  }
+ /* Custom styles */
+ .progress-bar{
+    background-color:#2dca73;
+ }
+ .col .h6{
+    color:blue;
+ }
